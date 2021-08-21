@@ -1,6 +1,6 @@
 # Password Generator 
  
-[Link to LIVE site.](https://ashbylb.github.io/password-generator/)
+[Link to LIVE site.](https://ashbylb.github.io/customized-password-generator/)
 
 ## Table of Contents
 - [Description](#Description)
