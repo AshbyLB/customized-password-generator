@@ -1,2 +1,24 @@
-# customized-password-generator
-Password Generator 
+# Password Generator 
+ 
+[Link to LIVE site.](https://ashbylb.github.io/password-generator/)
+
+## Table of Contents
+- [Description](#Description)
+- [Usage](#Usage)
+- [Screenshot](#Screenshot)
+- [Languages](#Languages)
+
+## Description
+Welcome to the Password Generator!  If you need a randomized password  you have come to the right place. The website is clean and srtaight forward.
+
+## Usage 
+Click the "Generate Password" button and follow the prompts to generate a personalized password!
+
+
+## Screenshot
+ 
+
+![me](assets\css\javascript\images\passwordpic.png)
+
+## Languages
+HTML, CSS, and JavaScript
